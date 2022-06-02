@@ -1,4 +1,13 @@
-const MongoClient = require('mongodb').MongoClient
+const { MongoClient, ServerApiVersion } = require('mongodb');
+const uri = "mongodb+srv://shinlamed:lifschitz@cluster0.mn2vc.mongodb.net/?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+client.connect(err => {
+  const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+});
+
+
 
 const config = require('../config')
 const loggerService = require('./logger.service')
@@ -8,7 +17,7 @@ module.exports = {
 }
 
 // Database Name
-const dbName = 'boardDB'
+const dbName = 'board_db'
 
 var dbConn = null
 

@@ -311,3 +311,157 @@
 30.5.2022, 21:17:30 - DEBUG - Getting Boards 
 31.5.2022, 8:38:23 - INFO - Server is running on port: 3030 
 31.5.2022, 8:40:18 - DEBUG - Getting Boards 
+2.6.2022, 8:44:11 - INFO - Server is running on port: 3030 
+2.6.2022, 9:02:07 - INFO - Server is running on port: 3030 
+2.6.2022, 9:02:47 - DEBUG - auth.service - signup with username: ShlomoL, fullname: shlomo (userId: 628a33f072ec74850c58a91a)
+2.6.2022, 9:02:47 - DEBUG - auth.route - new account created: {"username":"ShlomoL","password":"$2b$10$2J23pTA6CKY//o0ydyokpOwzebJjCDtQFKUHUMmViNXqXowVAth2e","fullname":"shlomo","score":100,"_id":"629852871392df88276210df"} (userId: 628a33f072ec74850c58a91a)
+2.6.2022, 9:02:47 - DEBUG - auth.service - login with username: ShlomoL (userId: 628a33f072ec74850c58a91a)
+2.6.2022, 9:02:47 - INFO - User signup: | {"_id":"629852871392df88276210df","username":"ShlomoL","fullname":"shlomo","imgUrl":null,"score":100} (userId: 628a33f072ec74850c58a91a)
+2.6.2022, 9:03:05 - DEBUG - auth.service - login with username: ShlomoL (userId: 628a33f072ec74850c58a91a)
+2.6.2022, 9:03:05 - INFO - User login:  | {"_id":"629852871392df88276210df","username":"ShlomoL","fullname":"shlomo","imgUrl":null,"score":100} (userId: 628a33f072ec74850c58a91a)
+2.6.2022, 14:27:52 - DEBUG - auth.service - login with username: ShlomoL (userId: 629852871392df88276210df)
+2.6.2022, 14:27:52 - INFO - User login:  | {"_id":"629852871392df88276210df","username":"ShlomoL","fullname":"shlomo","imgUrl":null,"score":100} (userId: 629852871392df88276210df)
+2.6.2022, 14:44:46 - INFO - Server is running on port: 3030 
+2.6.2022, 14:44:58 - DEBUG - auth.service - login with username: ShlomoL 
+2.6.2022, 14:44:58 - INFO - User login:  | {"_id":"629852871392df88276210df","username":"ShlomoL","fullname":"shlomo","imgUrl":null,"score":100} 
+2.6.2022, 16:02:43 - DEBUG - auth.service - login with username: Shabi 
+2.6.2022, 16:02:43 - INFO - User login:  | {"_id":"62984d6909347e47eb951fc7","fullname":"Shabi","username":"Shabi"} 
+2.6.2022, 16:39:26 - INFO - Server is running on port: 3030 
+2.6.2022, 16:43:34 - DEBUG - auth.service - signup with username: Shtok, fullname: Shlomo Lifschitz (userId: 629852871392df88276210df)
+2.6.2022, 16:43:34 - DEBUG - auth.route - new account created: {"username":"Shtok","password":"$2b$10$8yq/NjQ7X2VsukzVVyceEuvfc9S4N7LZYB1bsmggPv4oCDxJhSp52","fullname":"Shlomo Lifschitz","score":100,"_id":"6298be86dd19c52973ffc8b8"} (userId: 629852871392df88276210df)
+2.6.2022, 16:43:34 - DEBUG - auth.service - login with username: Shtok (userId: 629852871392df88276210df)
+2.6.2022, 16:43:34 - INFO - User signup: | {"_id":"6298be86dd19c52973ffc8b8","username":"Shtok","fullname":"Shlomo Lifschitz","imgUrl":null,"score":100} (userId: 629852871392df88276210df)
+2.6.2022, 16:43:46 - DEBUG - auth.service - login with username: Shtok (userId: 6298be86dd19c52973ffc8b8)
+2.6.2022, 16:43:46 - INFO - User login:  | {"_id":"6298be86dd19c52973ffc8b8","username":"Shtok","fullname":"Shlomo Lifschitz","imgUrl":null,"score":100} (userId: 6298be86dd19c52973ffc8b8)
+2.6.2022, 17:46:28 - INFO - Server is running on port: 3030 
+2.6.2022, 17:47:33 - DEBUG - auth.service - signup with username: Shubi, fullname: Shlomo LIfschitz (userId: 62984d6909347e47eb951fc7)
+2.6.2022, 17:47:33 - DEBUG - auth.route - new account created: {"username":"Shubi","password":"$2b$10$ye5fEW9DMYxnnf7CtR2JKeIcvHXBgrxeTOU/z68KWYTZtXfde0isa","fullname":"Shlomo LIfschitz","score":100,"_id":"6298cd8584a68d71d27303a4"} (userId: 62984d6909347e47eb951fc7)
+2.6.2022, 17:47:33 - DEBUG - auth.service - login with username: Shubi (userId: 62984d6909347e47eb951fc7)
+2.6.2022, 17:47:33 - INFO - User signup: | {"_id":"6298cd8584a68d71d27303a4","username":"Shubi","fullname":"Shlomo LIfschitz","imgUrl":null,"score":100} (userId: 62984d6909347e47eb951fc7)
+2.6.2022, 17:48:48 - INFO - Server is running on port: 3030 
+2.6.2022, 17:48:50 - INFO - Server is running on port: 3030 
+2.6.2022, 17:48:54 - INFO - Server is running on port: 3030 
+2.6.2022, 17:48:55 - INFO - Server is running on port: 3030 
+2.6.2022, 17:49:00 - DEBUG - auth.service - signup with username: Shubi, fullname: Shlomo LIfschitz (userId: 6298cd8584a68d71d27303a4)
+2.6.2022, 17:49:00 - DEBUG - auth.route - new account created: {"username":"Shubi","password":"$2b$10$Cz5tDzMeL4Vkep7MDjOVFeVdP87EwJEUfW0CPEI/Mel0goLkbBIoS","fullname":"Shlomo LIfschitz","score":100,"_id":"6298cddc832ff9327630f7ab"} (userId: 6298cd8584a68d71d27303a4)
+2.6.2022, 17:49:00 - DEBUG - auth.service - login with username: Shubi (userId: 6298cd8584a68d71d27303a4)
+2.6.2022, 17:49:00 - INFO - User signup: | {"_id":"6298cddc832ff9327630f7ab","username":"Shubi","fullname":"Shlomo LIfschitz","imgUrl":null,"score":100} (userId: 6298cd8584a68d71d27303a4)
+2.6.2022, 18:01:43 - DEBUG - auth.service - signup with username: Shabi, fullname: Shani The Snail (userId: 6298cddc832ff9327630f7ab)
+2.6.2022, 18:01:44 - DEBUG - auth.route - new account created: {"username":"Shabi","password":"$2b$10$kSUN4BtxPSLYrTB/DcZGXuBbLSu0fmPEYlq8qTgrqR2ylIeWcx/Ji","fullname":"Shani The Snail","score":100,"_id":"6298d0d8832ff9327630f7ac"} (userId: 6298cddc832ff9327630f7ab)
+2.6.2022, 18:01:44 - DEBUG - auth.service - login with username: Shabi (userId: 6298cddc832ff9327630f7ab)
+2.6.2022, 18:01:44 - INFO - User signup: | {"_id":"6298d0d8832ff9327630f7ac","username":"Shabi","fullname":"Shani The Snail","imgUrl":null,"score":100} (userId: 6298cddc832ff9327630f7ab)
+2.6.2022, 18:06:40 - INFO - Server is running on port: 3030 
+2.6.2022, 18:07:13 - DEBUG - auth.service - signup with username: Shabi, fullname: Shani The Slug (userId: 6298d0d8832ff9327630f7ac)
+2.6.2022, 18:07:13 - ERROR - Failed to signup Username already taken (userId: 6298d0d8832ff9327630f7ac)
+2.6.2022, 18:07:23 - DEBUG - auth.service - signup with username: Shab, fullname: Shani The Slug (userId: 6298d0d8832ff9327630f7ac)
+2.6.2022, 18:07:23 - DEBUG - auth.route - new account created: {"username":"Shab","password":"$2b$10$zInmdkMyLIGTaPF6g5R3XOGXqrgARkoVgiNuNLcE4q6Gd/AdgLAAy","fullname":"Shani The Slug","score":100,"_id":"6298d22bee3159826e8ded96"} (userId: 6298d0d8832ff9327630f7ac)
+2.6.2022, 18:07:23 - DEBUG - auth.service - login with username: Shab (userId: 6298d0d8832ff9327630f7ac)
+2.6.2022, 18:07:23 - INFO - User signup: | {"_id":"6298d22bee3159826e8ded96","username":"Shab","fullname":"Shani The Slug","imgUrl":null,"score":100} (userId: 6298d0d8832ff9327630f7ac)
+2.6.2022, 18:13:18 - DEBUG - auth.service - signup with username: shabi, fullname: Shani the Slug (userId: 6298be86dd19c52973ffc8b8)
+2.6.2022, 18:13:18 - DEBUG - auth.route - new account created: {"username":"shabi","password":"$2b$10$Nm5bryUm.FnTGslyHqvXwucX6ExCj7.Zla3sBHu0EX9UNtHmobeJC","fullname":"Shani the Slug","score":100,"_id":"6298d38eee3159826e8ded97"} (userId: 6298be86dd19c52973ffc8b8)
+2.6.2022, 18:13:18 - DEBUG - auth.service - login with username: shabi (userId: 6298be86dd19c52973ffc8b8)
+2.6.2022, 18:13:18 - INFO - User signup: | {"_id":"6298d38eee3159826e8ded97","username":"shabi","fullname":"Shani the Slug","imgUrl":null,"score":100} (userId: 6298be86dd19c52973ffc8b8)
+2.6.2022, 18:13:31 - DEBUG - auth.service - login with username: shabi (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:13:31 - INFO - User login:  | {"_id":"6298d38eee3159826e8ded97","username":"shabi","fullname":"Shani the Slug","imgUrl":null,"score":100} (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:17:01 - DEBUG - auth.service - signup with username: Shabluli, fullname: Shani The SHablul (userId: 6298d22bee3159826e8ded96)
+2.6.2022, 18:17:01 - DEBUG - auth.route - new account created: {"username":"Shabluli","password":"$2b$10$jT5QvL8YupvzI6YcS1HHreTPfWWTYBUlQDe7Zl60a0ouVMgO44gum","fullname":"Shani The SHablul","score":100,"_id":"6298d46dee3159826e8ded98"} (userId: 6298d22bee3159826e8ded96)
+2.6.2022, 18:17:01 - DEBUG - auth.service - login with username: Shabluli (userId: 6298d22bee3159826e8ded96)
+2.6.2022, 18:17:01 - INFO - User signup: | {"_id":"6298d46dee3159826e8ded98","username":"Shabluli","fullname":"Shani The SHablul","imgUrl":null,"score":100} (userId: 6298d22bee3159826e8ded96)
+2.6.2022, 18:19:28 - INFO - Server is running on port: 3030 
+2.6.2022, 18:19:36 - INFO - Server is running on port: 3030 
+2.6.2022, 18:19:38 - INFO - Server is running on port: 3030 
+2.6.2022, 18:21:45 - DEBUG - auth.service - signup with username: Shablulilul, fullname: Shani The SHabluli (userId: 6298d46dee3159826e8ded98)
+2.6.2022, 18:21:47 - DEBUG - auth.route - new account created: {"username":"Shablulilul","password":"$2b$10$KsguPsMsFj72TR1CEfQHCenz5S1B7P9boRigECi53u7WuSpLeWLl.","fullname":"Shani The SHabluli","score":100,"_id":"6298d58b4d84bc6e8fc539db"} (userId: 6298d46dee3159826e8ded98)
+2.6.2022, 18:21:47 - DEBUG - auth.service - login with username: Shablulilul (userId: 6298d46dee3159826e8ded98)
+2.6.2022, 18:21:47 - INFO - User signup: | {"_id":"6298d58b4d84bc6e8fc539db","username":"Shablulilul","fullname":"Shani The SHabluli","imgUrl":null,"score":100} (userId: 6298d46dee3159826e8ded98)
+2.6.2022, 18:38:54 - INFO - Server is running on port: 3030 
+2.6.2022, 18:39:24 - INFO - Server is running on port: 3030 
+2.6.2022, 18:41:31 - DEBUG - auth.service - signup with username: shabi, fullname: Shbi Shabon 
+2.6.2022, 18:41:32 - DEBUG - auth.route - new account created: {"username":"shabi","password":"$2b$10$u7YwMXzVg8CfMFlTVWozAOi9kt4p8HQmD4Soa2wUP6orOS567TiKi","fullname":"Shbi Shabon","score":100,"_id":"6298da2c2dee060060138006"} 
+2.6.2022, 18:41:32 - DEBUG - auth.service - login with username: shabi 
+2.6.2022, 18:41:32 - INFO - User signup: | {"_id":"6298da2c2dee060060138006","username":"shabi","fullname":"Shbi Shabon","imgUrl":null,"score":100} 
+2.6.2022, 18:44:59 - DEBUG - Getting Boards (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:46:45 - DEBUG - Getting Boards (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:46:48 - DEBUG - Getting Boards (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:53:12 - DEBUG - Getting Boards (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:53:44 - DEBUG - Getting Boards (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:54:03 - ERROR - cannot find boards | MongoServerSelectionError: read ECONNRESET (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:54:03 - ERROR - Failed to get boards | MongoServerSelectionError: read ECONNRESET (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:54:56 - ERROR - cannot find boards | MongoServerSelectionError: read ECONNRESET (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:54:56 - ERROR - Failed to get boards | MongoServerSelectionError: read ECONNRESET (userId: 6298d38eee3159826e8ded97)
+2.6.2022, 18:55:38 - DEBUG - auth.service - login with username: shabi 
+2.6.2022, 18:55:52 - INFO - User login:  | {"_id":"6298da2c2dee060060138006","username":"shabi","fullname":"Shbi Shabon","imgUrl":null,"score":100} 
+2.6.2022, 18:55:52 - DEBUG - Getting Boards 
+2.6.2022, 18:56:17 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:56:17 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:56:29 - DEBUG - Getting Boards 
+2.6.2022, 18:56:31 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:56:31 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:56:54 - DEBUG - Getting Boards 
+2.6.2022, 18:56:56 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:56:56 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:13 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:13 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:19 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:19 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:23 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:23 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:27 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:27 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:41 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:41 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:52 - DEBUG - Getting Boards 
+2.6.2022, 18:57:54 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:57:54 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:58:06 - DEBUG - Getting Boards 
+2.6.2022, 18:58:10 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:58:10 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 18:58:39 - DEBUG - Getting Boards 
+2.6.2022, 19:03:05 - DEBUG - Getting Boards 
+2.6.2022, 19:11:37 - DEBUG - Getting Boards 
+2.6.2022, 19:11:53 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 19:11:53 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 19:12:14 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 19:12:14 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 19:12:40 - DEBUG - Getting Boards 
+2.6.2022, 19:36:15 - DEBUG - Getting Boards 
+2.6.2022, 19:36:28 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 19:36:28 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 19:37:21 - DEBUG - Getting Boards 
+2.6.2022, 19:54:18 - DEBUG - Getting Boards 
+2.6.2022, 19:54:43 - DEBUG - Getting Boards 
+2.6.2022, 19:58:44 - DEBUG - Getting Boards 
+2.6.2022, 19:59:33 - DEBUG - Getting Boards 
+2.6.2022, 20:03:02 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 20:03:02 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 20:03:14 - DEBUG - Getting Boards 
+2.6.2022, 20:32:53 - DEBUG - Getting Boards 
+2.6.2022, 20:33:17 - DEBUG - Getting Boards 
+2.6.2022, 20:50:27 - DEBUG - Getting Boards 
+2.6.2022, 20:50:32 - DEBUG - Getting Boards 
+2.6.2022, 20:50:51 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 20:50:51 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 20:51:10 - DEBUG - Getting Boards 
+2.6.2022, 20:51:59 - DEBUG - Getting Boards 
+2.6.2022, 20:52:42 - DEBUG - Getting Boards 
+2.6.2022, 20:53:44 - DEBUG - Getting Boards 
+2.6.2022, 20:57:58 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 20:57:58 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 20:58:16 - DEBUG - Getting Boards 
+2.6.2022, 21:01:44 - DEBUG - Getting Boards 
+2.6.2022, 21:07:53 - DEBUG - Getting Boards 
+2.6.2022, 21:10:40 - DEBUG - Getting Boards 
+2.6.2022, 21:13:07 - DEBUG - Getting Boards 
+2.6.2022, 21:16:04 - DEBUG - Getting Boards 
+2.6.2022, 21:16:17 - DEBUG - Getting Boards 
+2.6.2022, 21:28:36 - DEBUG - Getting Boards 
+2.6.2022, 21:28:44 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 21:28:44 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 21:29:57 - DEBUG - Getting Boards 
+2.6.2022, 21:30:08 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 21:30:08 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2.6.2022, 21:35:18 - DEBUG - Getting Boards 
+2.6.2022, 21:37:57 - DEBUG - Getting Boards 
+2.6.2022, 21:43:42 - DEBUG - Getting Boards 
+2.6.2022, 21:44:49 - DEBUG - Getting Boards 
+2.6.2022, 21:45:17 - DEBUG - Getting Boards 
