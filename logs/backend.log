@@ -465,3 +465,49 @@
 2.6.2022, 21:43:42 - DEBUG - Getting Boards 
 2.6.2022, 21:44:49 - DEBUG - Getting Boards 
 2.6.2022, 21:45:17 - DEBUG - Getting Boards 
+31.5.2022, 10:55:49 - INFO - Server is running on port: 3030 
+31.5.2022, 11:13:35 - INFO - Server is running on port: 3030 
+31.5.2022, 11:30:03 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:30:04 - ERROR - Failed to Login Invalid username or password 
+31.5.2022, 11:30:26 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:30:26 - ERROR - Failed to Login Invalid username or password 
+31.5.2022, 11:34:18 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:34:18 - ERROR - Failed to Login Invalid username or password 
+31.5.2022, 11:35:34 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:35:34 - ERROR - Failed to Login Invalid username or password 
+31.5.2022, 11:36:14 - INFO - Server is running on port: 3030 
+31.5.2022, 11:36:21 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:36:21 - ERROR - Failed to Login Invalid password 
+31.5.2022, 11:38:29 - DEBUG - auth.service - signup with username: Shablul, fullname: Shlomo Lifshitz 
+31.5.2022, 11:38:29 - DEBUG - auth.route - new account created: {"username":"Shablul","password":"$2b$10$VvVE2l9bTafzlQqX6velrexFl9rkayweW2EmmPRtO4EpuDbNPl32S","fullname":"Shlomo Lifshitz","score":100,"_id":"6295d40592cf5e2553e0d1fe"} 
+31.5.2022, 11:38:29 - DEBUG - auth.service - login with username: Shablul 
+31.5.2022, 11:38:29 - INFO - User signup: | {"_id":"6295d40592cf5e2553e0d1fe","username":"Shablul","fullname":"Shlomo Lifshitz","imgUrl":null,"score":100} 
+31.5.2022, 11:40:01 - DEBUG - auth.service - login with username: Shablul 
+31.5.2022, 11:40:02 - INFO - User login:  | {"_id":"6295d40592cf5e2553e0d1fe","username":"Shablul","fullname":"Shlomo Lifshitz","imgUrl":null,"score":100} 
+31.5.2022, 11:40:31 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:40:31 - ERROR - Failed to Login Invalid password 
+31.5.2022, 11:41:42 - DEBUG - auth.service - signup with username: Noyai, fullname: Noya Itzhaki 
+31.5.2022, 11:41:42 - DEBUG - auth.route - new account created: {"username":"Noyai","password":"$2b$10$oL8EEGZWIXXOo4qYTD8f.uGxYWZfGnJSpiC7t2QH.b3i8ZMtVngkm","fullname":"Noya Itzhaki","score":100,"_id":"6295d4c692cf5e2553e0d1ff"} 
+31.5.2022, 11:41:42 - DEBUG - auth.service - login with username: Noyai 
+31.5.2022, 11:41:43 - INFO - User signup: | {"_id":"6295d4c692cf5e2553e0d1ff","username":"Noyai","fullname":"Noya Itzhaki","imgUrl":null,"score":100} 
+31.5.2022, 11:42:38 - DEBUG - auth.service - signup with username: Erezwiz, fullname: Erez Wiezel (userId: 6295d4c692cf5e2553e0d1ff)
+31.5.2022, 11:42:39 - DEBUG - auth.route - new account created: {"username":"Erezwiz","password":"$2b$10$jJyqNfLsDnv1c.BKGf/37eGQY0sKb1OvVUNPstIJWpTmeq1nZ7.ZK","fullname":"Erez Wiezel","score":100,"_id":"6295d4ff92cf5e2553e0d200"} (userId: 6295d4c692cf5e2553e0d1ff)
+31.5.2022, 11:42:39 - DEBUG - auth.service - login with username: Erezwiz (userId: 6295d4c692cf5e2553e0d1ff)
+31.5.2022, 11:42:39 - INFO - User signup: | {"_id":"6295d4ff92cf5e2553e0d200","username":"Erezwiz","fullname":"Erez Wiezel","imgUrl":null,"score":100} (userId: 6295d4c692cf5e2553e0d1ff)
+31.5.2022, 14:25:09 - INFO - Server is running on port: 3030 
+31.5.2022, 15:48:43 - DEBUG - auth.service - login with username: Noyai (userId: 628b66ebfcc4bd3afc365e46)
+31.5.2022, 15:48:45 - INFO - User login:  | {"_id":"6295d4c692cf5e2553e0d1ff","username":"Noyai","fullname":"Noya Itzhaki","imgUrl":null,"score":100} (userId: 628b66ebfcc4bd3afc365e46)
+31.5.2022, 15:50:32 - DEBUG - auth.service - login with username: Shablul (userId: 628b66ebfcc4bd3afc365e46)
+31.5.2022, 15:50:34 - INFO - User login:  | {"_id":"6295d40592cf5e2553e0d1fe","username":"Shablul","fullname":"Shlomo Lifshitz","imgUrl":null,"score":100} (userId: 628b66ebfcc4bd3afc365e46)
+31.5.2022, 15:54:25 - DEBUG - auth.service - login with username: Shablul 
+31.5.2022, 15:54:28 - INFO - User login:  | {"_id":"6295d40592cf5e2553e0d1fe","username":"Shablul","fullname":"Shlomo Lifshitz","imgUrl":null,"score":100} 
+31.5.2022, 15:54:59 - DEBUG - auth.service - signup with username: noyai, fullname: noya 
+31.5.2022, 15:55:00 - DEBUG - auth.route - new account created: {"username":"noyai","password":"$2b$10$ig9gkWFmY8gZek3PfS81FujiRIbTSAjxmXQ1N8HV5uWOXgazo6kc6","fullname":"noya","score":100,"_id":"62961024f917466600a6ecce"} 
+31.5.2022, 15:55:00 - DEBUG - auth.service - login with username: noyai 
+31.5.2022, 15:55:01 - INFO - User signup: | {"_id":"62961024f917466600a6ecce","username":"noyai","fullname":"noya","imgUrl":null,"score":100} 
+31.5.2022, 15:55:23 - DEBUG - auth.service - login with username: noyai 
+31.5.2022, 15:55:25 - INFO - User login:  | {"_id":"62961024f917466600a6ecce","username":"noyai","fullname":"noya","imgUrl":null,"score":100} 
+31.5.2022, 15:55:33 - DEBUG - auth.service - login with username: noyai 
+31.5.2022, 15:55:34 - INFO - User login:  | {"_id":"62961024f917466600a6ecce","username":"noyai","fullname":"noya","imgUrl":null,"score":100} 
+31.5.2022, 16:36:54 - DEBUG - auth.service - login with username: Sablul 
+31.5.2022, 16:36:54 - ERROR - Failed to Login Invalid username 
