@@ -511,3 +511,230 @@
 31.5.2022, 15:55:34 - INFO - User login:  | {"_id":"62961024f917466600a6ecce","username":"noyai","fullname":"noya","imgUrl":null,"score":100} 
 31.5.2022, 16:36:54 - DEBUG - auth.service - login with username: Sablul 
 31.5.2022, 16:36:54 - ERROR - Failed to Login Invalid username 
+2.6.2022, 22:04:26 - INFO - Server is running on port: 3030 
+3.6.2022, 11:17:47 - DEBUG - Getting Boards 
+3.6.2022, 11:29:55 - DEBUG - Getting Boards 
+3.6.2022, 11:30:02 - DEBUG - Getting Boards 
+3.6.2022, 11:30:04 - DEBUG - Getting Boards 
+3.6.2022, 11:30:41 - DEBUG - Getting Boards 
+3.6.2022, 11:31:11 - DEBUG - Getting Boards 
+3.6.2022, 11:32:24 - DEBUG - auth.service - signup with username: noyai, fullname: noya itzhaki 
+3.6.2022, 11:32:24 - DEBUG - auth.service - login with username: noyai 
+3.6.2022, 11:32:24 - DEBUG - auth.route - new account created: {"username":"noyai","password":"$2b$10$KKxuQWM9e7laXGoFJFSWq.BsEVm1oLV7hvDlFCEST/W4qEOk.HJVS","fullname":"noya itzhaki","score":100,"_id":"6299c718f22438afe504de77"} 
+3.6.2022, 11:32:24 - INFO - User signup: | {"_id":"6299c718f22438afe504de77","username":"noyai","fullname":"noya itzhaki","imgUrl":null,"score":100} 
+3.6.2022, 11:32:37 - DEBUG - auth.service - login with username: noyai 
+3.6.2022, 11:32:38 - INFO - User login:  | {"_id":"6299c718f22438afe504de77","username":"noyai","fullname":"noya itzhaki","imgUrl":null,"score":100} 
+3.6.2022, 11:33:08 - DEBUG - auth.service - login with username: noyai 
+3.6.2022, 11:33:08 - INFO - User login:  | {"_id":"6299c718f22438afe504de77","username":"noyai","fullname":"noya itzhaki","imgUrl":null,"score":100} 
+3.6.2022, 11:33:49 - DEBUG - auth.service - signup with username: noynoy, fullname: noya 
+3.6.2022, 11:33:49 - DEBUG - auth.route - new account created: {"username":"noynoy","password":"$2b$10$Ij0Sa0wrJV2W8IUMM9.bn.UURqkWcOOKf004HSkfS62.UlOH6c4wu","fullname":"noya","score":100,"_id":"6299c76df22438afe504de78"} 
+3.6.2022, 11:33:49 - DEBUG - auth.service - login with username: noynoy 
+3.6.2022, 11:33:49 - INFO - User signup: | {"_id":"6299c76df22438afe504de78","username":"noynoy","fullname":"noya","imgUrl":null,"score":100} 
+3.6.2022, 11:49:07 - DEBUG - Getting Boards 
+3.6.2022, 11:49:43 - DEBUG - Getting Boards 
+3.6.2022, 11:49:47 - DEBUG - Getting Boards 
+3.6.2022, 11:50:19 - DEBUG - Getting Boards 
+3.6.2022, 11:51:22 - DEBUG - Getting Boards 
+3.6.2022, 11:51:27 - DEBUG - Getting Boards 
+3.6.2022, 11:51:34 - DEBUG - Getting Boards 
+3.6.2022, 11:56:02 - DEBUG - Getting Boards 
+3.6.2022, 11:56:10 - DEBUG - Getting Boards 
+3.6.2022, 12:00:49 - DEBUG - Getting Boards 
+3.6.2022, 12:03:39 - DEBUG - Getting Boards 
+3.6.2022, 12:04:25 - DEBUG - Getting Boards 
+3.6.2022, 12:04:31 - DEBUG - Getting Boards 
+3.6.2022, 12:05:21 - DEBUG - Getting Boards 
+3.6.2022, 12:05:25 - DEBUG - Getting Boards 
+3.6.2022, 12:08:12 - DEBUG - Getting Boards 
+3.6.2022, 12:08:32 - DEBUG - Getting Boards 
+3.6.2022, 12:27:32 - DEBUG - Getting Boards 
+3.6.2022, 12:27:41 - DEBUG - Getting Boards 
+3.6.2022, 12:27:54 - DEBUG - Getting Boards 
+3.6.2022, 12:29:01 - DEBUG - Getting Boards 
+3.6.2022, 12:31:18 - DEBUG - Getting Boards 
+3.6.2022, 12:33:34 - DEBUG - Getting Boards 
+3.6.2022, 12:35:25 - DEBUG - Getting Boards 
+3.6.2022, 12:36:37 - DEBUG - Getting Boards 
+3.6.2022, 12:37:07 - DEBUG - Getting Boards 
+3.6.2022, 12:37:46 - DEBUG - Getting Boards 
+3.6.2022, 12:38:14 - DEBUG - Getting Boards 
+3.6.2022, 12:38:59 - DEBUG - Getting Boards 
+3.6.2022, 12:40:22 - DEBUG - Getting Boards 
+3.6.2022, 12:40:52 - DEBUG - Getting Boards 
+3.6.2022, 12:41:12 - DEBUG - Getting Boards 
+3.6.2022, 12:41:23 - DEBUG - Getting Boards 
+3.6.2022, 12:42:12 - DEBUG - Getting Boards 
+3.6.2022, 12:45:01 - DEBUG - Getting Boards 
+3.6.2022, 12:45:47 - DEBUG - Getting Boards 
+3.6.2022, 12:47:36 - DEBUG - Getting Boards 
+3.6.2022, 12:47:42 - DEBUG - Getting Boards 
+3.6.2022, 12:47:59 - DEBUG - Getting Boards 
+3.6.2022, 12:48:21 - DEBUG - Getting Boards 
+3.6.2022, 12:50:05 - DEBUG - Getting Boards 
+3.6.2022, 12:50:23 - DEBUG - Getting Boards 
+3.6.2022, 12:50:33 - DEBUG - Getting Boards 
+3.6.2022, 12:51:16 - DEBUG - Getting Boards 
+3.6.2022, 12:51:20 - DEBUG - Getting Boards 
+3.6.2022, 12:51:55 - DEBUG - Getting Boards 
+3.6.2022, 12:52:07 - DEBUG - Getting Boards 
+3.6.2022, 12:55:28 - DEBUG - Getting Boards 
+3.6.2022, 12:57:10 - DEBUG - Getting Boards 
+3.6.2022, 12:58:11 - DEBUG - Getting Boards 
+3.6.2022, 12:58:20 - DEBUG - Getting Boards 
+3.6.2022, 13:00:32 - DEBUG - Getting Boards 
+3.6.2022, 13:00:43 - DEBUG - Getting Boards 
+3.6.2022, 13:02:58 - DEBUG - Getting Boards 
+3.6.2022, 13:04:58 - DEBUG - Getting Boards 
+3.6.2022, 13:05:04 - DEBUG - Getting Boards 
+3.6.2022, 13:06:33 - DEBUG - Getting Boards 
+3.6.2022, 13:07:05 - DEBUG - Getting Boards 
+3.6.2022, 13:08:07 - DEBUG - Getting Boards 
+3.6.2022, 13:09:31 - DEBUG - Getting Boards 
+3.6.2022, 13:15:41 - DEBUG - Getting Boards 
+3.6.2022, 13:15:45 - DEBUG - Getting Boards 
+3.6.2022, 13:18:09 - DEBUG - Getting Boards 
+3.6.2022, 13:18:15 - DEBUG - Getting Boards 
+3.6.2022, 13:19:36 - DEBUG - Getting Boards 
+3.6.2022, 13:20:43 - DEBUG - Getting Boards 
+3.6.2022, 13:20:56 - DEBUG - Getting Boards 
+3.6.2022, 13:21:52 - DEBUG - Getting Boards 
+3.6.2022, 13:23:02 - DEBUG - Getting Boards 
+3.6.2022, 13:23:22 - DEBUG - Getting Boards 
+3.6.2022, 13:23:28 - DEBUG - Getting Boards 
+3.6.2022, 13:46:00 - DEBUG - Getting Boards 
+3.6.2022, 13:49:23 - DEBUG - Getting Boards 
+3.6.2022, 13:50:08 - DEBUG - Getting Boards 
+3.6.2022, 13:50:42 - DEBUG - Getting Boards 
+3.6.2022, 13:56:40 - DEBUG - Getting Boards 
+3.6.2022, 13:56:57 - DEBUG - Getting Boards 
+3.6.2022, 13:57:58 - DEBUG - Getting Boards 
+3.6.2022, 13:58:17 - DEBUG - Getting Boards 
+3.6.2022, 13:58:23 - DEBUG - Getting Boards 
+3.6.2022, 13:58:46 - DEBUG - Getting Boards 
+3.6.2022, 14:05:21 - DEBUG - Getting Boards 
+3.6.2022, 14:05:23 - DEBUG - Getting Boards 
+3.6.2022, 14:05:31 - DEBUG - Getting Boards 
+3.6.2022, 14:05:34 - DEBUG - Getting Boards 
+3.6.2022, 14:05:38 - DEBUG - Getting Boards 
+3.6.2022, 14:05:43 - DEBUG - Getting Boards 
+3.6.2022, 14:06:17 - DEBUG - Getting Boards 
+3.6.2022, 14:06:23 - DEBUG - Getting Boards 
+3.6.2022, 14:06:44 - DEBUG - Getting Boards 
+3.6.2022, 14:07:15 - DEBUG - auth.service - login with username: noynoy 
+3.6.2022, 14:07:15 - ERROR - Failed to Login Invalid username 
+3.6.2022, 14:07:25 - DEBUG - auth.service - login with username: noyai 
+3.6.2022, 14:07:26 - INFO - User login:  | {"_id":"6299c718f22438afe504de77","username":"noyai","fullname":"noya itzhaki","imgUrl":null,"score":100} 
+3.6.2022, 14:07:41 - DEBUG - Getting Boards 
+3.6.2022, 14:09:37 - DEBUG - Getting Boards 
+3.6.2022, 14:27:19 - DEBUG - Getting Boards 
+3.6.2022, 14:36:03 - DEBUG - Getting Boards 
+3.6.2022, 14:40:26 - DEBUG - Getting Boards 
+3.6.2022, 14:41:17 - DEBUG - Getting Boards 
+3.6.2022, 14:42:39 - DEBUG - Getting Boards 
+3.6.2022, 14:42:46 - DEBUG - Getting Boards 
+3.6.2022, 14:43:57 - DEBUG - Getting Boards 
+3.6.2022, 14:57:31 - DEBUG - Getting Boards 
+3.6.2022, 14:58:14 - DEBUG - Getting Boards 
+3.6.2022, 16:12:44 - DEBUG - Getting Boards 
+3.6.2022, 16:13:00 - DEBUG - Getting Boards 
+3.6.2022, 16:16:32 - DEBUG - Getting Boards 
+3.6.2022, 16:23:05 - DEBUG - Getting Boards 
+3.6.2022, 16:27:29 - DEBUG - Getting Boards 
+3.6.2022, 16:28:34 - DEBUG - Getting Boards 
+3.6.2022, 16:46:03 - DEBUG - Getting Boards 
+3.6.2022, 16:50:03 - DEBUG - Getting Boards 
+3.6.2022, 16:50:35 - DEBUG - Getting Boards 
+3.6.2022, 16:59:48 - DEBUG - Getting Boards 
+3.6.2022, 17:02:00 - DEBUG - Getting Boards 
+3.6.2022, 17:03:53 - DEBUG - Getting Boards 
+3.6.2022, 17:04:39 - DEBUG - Getting Boards 
+3.6.2022, 17:07:11 - DEBUG - Getting Boards 
+3.6.2022, 17:07:52 - DEBUG - Getting Boards 
+3.6.2022, 17:08:32 - DEBUG - Getting Boards 
+3.6.2022, 17:10:30 - DEBUG - Getting Boards 
+3.6.2022, 17:11:37 - DEBUG - Getting Boards 
+3.6.2022, 17:12:19 - DEBUG - Getting Boards 
+3.6.2022, 17:16:20 - DEBUG - Getting Boards 
+3.6.2022, 17:16:24 - DEBUG - Getting Boards 
+3.6.2022, 17:16:36 - DEBUG - auth.service - login with username: noyai 
+3.6.2022, 17:16:37 - INFO - User login:  | {"_id":"6299c718f22438afe504de77","username":"noyai","fullname":"noya itzhaki","imgUrl":null,"score":100} 
+3.6.2022, 17:16:37 - DEBUG - Getting Boards (userId: 6299c718f22438afe504de77)
+3.6.2022, 17:17:21 - DEBUG - Getting Boards 
+3.6.2022, 17:17:37 - DEBUG - Getting Boards 
+3.6.2022, 17:20:40 - DEBUG - Getting Boards 
+3.6.2022, 17:23:32 - DEBUG - Getting Boards 
+3.6.2022, 17:44:40 - DEBUG - Getting Boards 
+3.6.2022, 17:46:25 - DEBUG - Getting Boards 
+3.6.2022, 17:46:58 - DEBUG - auth.service - login with username: noyai 
+3.6.2022, 17:46:58 - INFO - User login:  | {"_id":"6299c718f22438afe504de77","username":"noyai","fullname":"noya itzhaki","imgUrl":null,"score":100} 
+3.6.2022, 17:46:58 - DEBUG - Getting Boards (userId: 6299c718f22438afe504de77)
+3.6.2022, 17:47:03 - DEBUG - Getting Boards (userId: 6299c718f22438afe504de77)
+3.6.2022, 17:47:38 - DEBUG - Getting Boards 
+3.6.2022, 17:47:46 - DEBUG - Getting Boards 
+3.6.2022, 17:47:53 - DEBUG - Getting Boards 
+3.6.2022, 18:15:38 - DEBUG - Getting Boards 
+3.6.2022, 18:25:48 - DEBUG - Getting Boards 
+3.6.2022, 18:26:34 - DEBUG - auth.service - login with username: s 
+3.6.2022, 18:26:35 - INFO - User login:  | {"_id":"6299f629c65d4889b1d1763d","username":"s","fullname":"s","imgUrl":null,"score":100} 
+3.6.2022, 18:26:35 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+3.6.2022, 18:27:09 - DEBUG - Getting Boards 
+3.6.2022, 18:27:43 - DEBUG - Getting Boards 
+3.6.2022, 20:49:55 - DEBUG - Getting Boards 
+3.6.2022, 20:50:12 - DEBUG - Getting Boards 
+3.6.2022, 21:12:22 - DEBUG - Getting Boards 
+3.6.2022, 21:33:06 - DEBUG - Getting Boards 
+3.6.2022, 21:33:12 - DEBUG - Getting Boards 
+3.6.2022, 21:44:37 - DEBUG - Getting Boards 
+3.6.2022, 21:45:14 - DEBUG - Getting Boards 
+4.6.2022, 10:21:14 - INFO - Server is running on port: 3030 
+4.6.2022, 10:24:01 - DEBUG - Getting Boards 
+4.6.2022, 10:29:08 - DEBUG - Getting Boards 
+4.6.2022, 10:32:11 - DEBUG - Getting Boards 
+4.6.2022, 10:37:03 - DEBUG - Getting Boards 
+4.6.2022, 10:57:42 - DEBUG - Getting Boards 
+4.6.2022, 10:57:51 - DEBUG - Getting Boards 
+4.6.2022, 10:57:59 - DEBUG - Getting Boards 
+4.6.2022, 10:58:07 - DEBUG - Getting Boards 
+4.6.2022, 10:58:16 - DEBUG - Getting Boards 
+4.6.2022, 12:10:25 - DEBUG - Getting Boards 
+4.6.2022, 12:18:57 - DEBUG - Getting Boards 
+4.6.2022, 12:48:34 - DEBUG - Getting Boards 
+4.6.2022, 13:06:18 - DEBUG - Getting Boards 
+4.6.2022, 13:06:48 - DEBUG - Getting Boards 
+4.6.2022, 13:08:05 - DEBUG - Getting Boards 
+4.6.2022, 13:08:16 - DEBUG - Getting Boards 
+4.6.2022, 13:08:23 - DEBUG - Getting Boards 
+4.6.2022, 13:10:33 - DEBUG - Getting Boards 
+4.6.2022, 13:14:34 - DEBUG - Getting Boards 
+4.6.2022, 13:15:35 - DEBUG - Getting Boards 
+4.6.2022, 13:16:48 - DEBUG - Getting Boards 
+4.6.2022, 13:17:31 - DEBUG - Getting Boards 
+4.6.2022, 16:44:06 - DEBUG - Getting Boards 
+4.6.2022, 16:44:15 - DEBUG - Getting Boards 
+4.6.2022, 21:24:30 - DEBUG - Getting Boards 
+4.6.2022, 21:24:46 - DEBUG - Getting Boards 
+4.6.2022, 21:26:36 - DEBUG - Getting Boards 
+4.6.2022, 21:38:00 - DEBUG - Getting Boards 
+4.6.2022, 21:38:06 - DEBUG - Getting Boards 
+4.6.2022, 21:38:23 - DEBUG - Getting Boards 
+4.6.2022, 21:49:23 - DEBUG - Getting Boards 
+4.6.2022, 21:51:25 - DEBUG - Getting Boards 
+4.6.2022, 21:53:28 - DEBUG - Getting Boards 
+4.6.2022, 21:53:49 - DEBUG - Getting Boards 
+4.6.2022, 21:53:51 - DEBUG - Getting Boards 
+4.6.2022, 21:54:18 - DEBUG - Getting Boards 
+4.6.2022, 21:54:34 - DEBUG - Getting Boards 
+4.6.2022, 21:56:09 - DEBUG - Getting Boards 
+5.6.2022, 10:57:11 - INFO - Server is running on port: 3030 
+5.6.2022, 10:57:54 - DEBUG - Getting Boards 
+5.6.2022, 11:36:45 - DEBUG - Getting Boards 
+5.6.2022, 11:37:22 - DEBUG - Getting Boards 
+5.6.2022, 11:38:08 - DEBUG - Getting Boards 
+5.6.2022, 11:41:25 - DEBUG - Getting Boards 
+5.6.2022, 11:42:50 - DEBUG - Getting Boards 
+5.6.2022, 11:43:16 - DEBUG - Getting Boards 
+5.6.2022, 11:43:21 - DEBUG - Getting Boards 
+5.6.2022, 11:43:43 - DEBUG - Getting Boards 
+5.6.2022, 12:00:06 - DEBUG - Getting Boards 
+5.6.2022, 12:00:10 - DEBUG - Getting Boards 
+5.6.2022, 12:58:23 - DEBUG - Getting Boards 
