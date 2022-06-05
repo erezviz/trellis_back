@@ -511,6 +511,7 @@
 31.5.2022, 15:55:34 - INFO - User login:  | {"_id":"62961024f917466600a6ecce","username":"noyai","fullname":"noya","imgUrl":null,"score":100} 
 31.5.2022, 16:36:54 - DEBUG - auth.service - login with username: Sablul 
 31.5.2022, 16:36:54 - ERROR - Failed to Login Invalid username 
+<<<<<<< HEAD
 2.6.2022, 22:04:26 - INFO - Server is running on port: 3030 
 3.6.2022, 11:17:47 - DEBUG - Getting Boards 
 3.6.2022, 11:29:55 - DEBUG - Getting Boards 
@@ -738,3 +739,332 @@
 5.6.2022, 12:00:06 - DEBUG - Getting Boards 
 5.6.2022, 12:00:10 - DEBUG - Getting Boards 
 5.6.2022, 12:58:23 - DEBUG - Getting Boards 
+=======
+2.6.2022, 22:26:43 - INFO - Server is running on port: 3030 
+2.6.2022, 22:28:19 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:29:09 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:33:50 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:38:57 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:39:13 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:39:23 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:41:19 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:42:17 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:44:25 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+2.6.2022, 22:48:11 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 8:33:59 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 8:57:37 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 9:00:30 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 9:06:26 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 9:07:55 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 9:09:01 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 9:09:50 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 9:12:17 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 10:21:54 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 10:26:58 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 10:37:06 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 11:16:46 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 12:15:22 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 12:17:25 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 16:32:21 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 16:42:19 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 16:42:27 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 17:35:56 - DEBUG - Getting Boards (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 18:26:39 - DEBUG - auth.service - login with username: s (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 18:26:39 - INFO - User login:  | {"_id":"6299f629c65d4889b1d1763d","username":"s","fullname":"s","imgUrl":null,"score":100} (userId: 628a4aef4217c3fb3809aab8)
+3.6.2022, 18:26:40 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+3.6.2022, 18:27:14 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+3.6.2022, 20:04:56 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+3.6.2022, 22:24:36 - DEBUG - auth.service - login with username: s (userId: 6299f629c65d4889b1d1763d)
+3.6.2022, 22:24:37 - INFO - User login:  | {"_id":"6299f629c65d4889b1d1763d","username":"s","fullname":"s","imgUrl":null,"score":100} (userId: 6299f629c65d4889b1d1763d)
+3.6.2022, 22:24:37 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 7:28:30 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:12:17 - INFO - Server is running on port: 3030 
+4.6.2022, 16:14:12 - INFO - New connected socket [id: pIxrNTuAPZUu8uj5AAAB] 
+4.6.2022, 16:14:13 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: pIxrNTuAPZUu8uj5AAAB] 
+4.6.2022, 16:19:43 - INFO - Server is running on port: 3030 
+4.6.2022, 16:19:44 - INFO - New connected socket [id: lpZtRQecHznSNyibAAAB] 
+4.6.2022, 16:19:54 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:26:14 - INFO - Server is running on port: 3030 
+4.6.2022, 16:26:14 - INFO - New connected socket [id: -WMQFBL6v4-KeJugAAAB] 
+4.6.2022, 16:26:16 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:26:17 - INFO - New connected socket [id: 9_l6DBBYA6GKvYw5AAAD] 
+4.6.2022, 16:26:17 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: 9_l6DBBYA6GKvYw5AAAD] 
+4.6.2022, 16:26:49 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:26:52 - INFO - New connected socket [id: RGPsXLjX5h_VH65bAAAF] 
+4.6.2022, 16:26:52 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: RGPsXLjX5h_VH65bAAAF] 
+4.6.2022, 16:27:00 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:27:15 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:27:23 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:27:33 - INFO - New connected socket [id: upFUtsqdVkVrxR2DAAAH] 
+4.6.2022, 16:27:33 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: upFUtsqdVkVrxR2DAAAH] 
+4.6.2022, 16:31:21 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:31:35 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:31:40 - INFO - New boardToUpdate from socket [id: upFUtsqdVkVrxR2DAAAH], emitting to board undefined 
+4.6.2022, 16:31:50 - INFO - New boardToUpdate from socket [id: upFUtsqdVkVrxR2DAAAH], emitting to board undefined 
+4.6.2022, 16:32:17 - INFO - New connected socket [id: FPIOA1hUSwBQr98GAAAJ] 
+4.6.2022, 16:32:21 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:32:58 - INFO - New connected socket [id: sfwmE3tASM0QTQ8JAAAL] 
+4.6.2022, 16:32:59 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:33:07 - INFO - New connected socket [id: YbD2dbw9aFLFxNcEAAAN] 
+4.6.2022, 16:33:10 - DEBUG - Getting Boards 
+4.6.2022, 16:33:12 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:33:33 - INFO - New connected socket [id: BKkiXvaaqewsFH9TAAAP] 
+4.6.2022, 16:33:33 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: BKkiXvaaqewsFH9TAAAP] 
+4.6.2022, 16:33:51 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:33:51 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:33:59 - INFO - New connected socket [id: wzImnIXVineJvBW5AAAR] 
+4.6.2022, 16:33:59 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 16:33:59 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: wzImnIXVineJvBW5AAAR] 
+4.6.2022, 16:34:20 - INFO - New boardToUpdate from socket [id: wzImnIXVineJvBW5AAAR], emitting to board undefined 
+4.6.2022, 16:36:51 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:36:51 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 16:36:52 - INFO - New connected socket [id: kZ6bqwJL15DMptE8AAAT] 
+4.6.2022, 16:36:53 - INFO - New connected socket [id: oOQmi9qGr_iKdyDXAAAV] 
+4.6.2022, 16:36:54 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: oOQmi9qGr_iKdyDXAAAV] 
+4.6.2022, 16:37:46 - INFO - Server is running on port: 3030 
+4.6.2022, 16:37:46 - INFO - New connected socket [id: 83xlnNckv2KBt4S_AAAC] 
+4.6.2022, 16:37:46 - INFO - New connected socket [id: 9qJbaUxXDax8BxADAAAD] 
+4.6.2022, 16:40:37 - DEBUG - auth.service - login with username: s 
+4.6.2022, 16:40:38 - INFO - User login:  | {"_id":"6299f629c65d4889b1d1763d","username":"s","fullname":"s","imgUrl":null,"score":100} 
+4.6.2022, 16:40:38 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: 83xlnNckv2KBt4S_AAAC] 
+4.6.2022, 16:40:38 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+4.6.2022, 22:53:59 - INFO - Server is running on port: 3030 
+4.6.2022, 22:54:01 - INFO - New connected socket [id: LTzQk1Ab2h5bwJECAAAB] 
+4.6.2022, 22:54:15 - INFO - New connected socket [id: 5t44FtlU_-6KH5peAAAD] 
+4.6.2022, 23:11:50 - INFO - New connected socket [id: Si_ORCiOsA9Mnu-1AAAF] 
+4.6.2022, 23:11:51 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: Si_ORCiOsA9Mnu-1AAAF] 
+4.6.2022, 23:12:20 - INFO - Socket disconnected [id: undefined] 
+4.6.2022, 23:12:20 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:32:58 - INFO - New connected socket [id: jzJAjnNKVhKSA9hGAAAI] 
+5.6.2022, 7:32:59 - INFO - New connected socket [id: mktetBIsql4etxI6AAAJ] 
+5.6.2022, 7:34:48 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:34:48 - INFO - New connected socket [id: UP7OvvWdv9wzZ4ONAAAL] 
+5.6.2022, 7:34:49 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: UP7OvvWdv9wzZ4ONAAAL] 
+5.6.2022, 7:46:19 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:46:20 - INFO - New connected socket [id: vky0QVD7-iMfuEZFAAAN] 
+5.6.2022, 7:46:20 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: vky0QVD7-iMfuEZFAAAN] 
+5.6.2022, 7:46:29 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:46:30 - INFO - New connected socket [id: N7Uu-lq6BcI5Ki6mAAAP] 
+5.6.2022, 7:46:30 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: N7Uu-lq6BcI5Ki6mAAAP] 
+5.6.2022, 7:46:35 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 7:48:09 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:48:10 - INFO - New connected socket [id: WUvdJQvSXyq807p9AAAR] 
+5.6.2022, 7:48:11 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: WUvdJQvSXyq807p9AAAR] 
+5.6.2022, 7:48:50 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:48:50 - INFO - New connected socket [id: V0baWFZmaas3AywaAAAT] 
+5.6.2022, 7:48:51 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: V0baWFZmaas3AywaAAAT] 
+5.6.2022, 7:49:02 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:49:03 - INFO - New connected socket [id: vx365OWg79Yhg5E0AAAV] 
+5.6.2022, 7:49:03 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: vx365OWg79Yhg5E0AAAV] 
+5.6.2022, 7:49:06 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 7:50:37 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:50:38 - INFO - New connected socket [id: FAkHi2z1VNFj1EEnAAAX] 
+5.6.2022, 7:50:38 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: FAkHi2z1VNFj1EEnAAAX] 
+5.6.2022, 7:51:55 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:51:56 - INFO - New connected socket [id: ETbMz8pb0L-6iO7fAAAZ] 
+5.6.2022, 7:51:56 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: ETbMz8pb0L-6iO7fAAAZ] 
+5.6.2022, 7:52:00 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 7:52:26 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 7:56:57 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 7:57:40 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 7:58:38 - INFO - Server is running on port: 3030 
+5.6.2022, 7:58:39 - INFO - New connected socket [id: 3G-AJ3oSZ-U-wTmCAAAB] 
+5.6.2022, 7:58:39 - INFO - New connected socket [id: Fuzaehu9Q26KcHjyAAAD] 
+5.6.2022, 7:58:39 - INFO - New connected socket [id: utL1wA859X1tK9k2AAAF] 
+5.6.2022, 7:58:48 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:58:49 - INFO - New connected socket [id: H2GlqHhxslWL7hr2AAAH] 
+5.6.2022, 7:58:50 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: H2GlqHhxslWL7hr2AAAH] 
+5.6.2022, 7:59:02 - INFO - Server is running on port: 3030 
+5.6.2022, 7:59:03 - INFO - New connected socket [id: QAu3mx7FEUhQayxYAAAB] 
+5.6.2022, 7:59:03 - INFO - New connected socket [id: pvldjt0QCtG7f7JqAAAD] 
+5.6.2022, 7:59:04 - INFO - New connected socket [id: PGwEILihWAqJlZYCAAAF] 
+5.6.2022, 7:59:08 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 7:59:09 - INFO - New connected socket [id: 0TVKL4-1WYzBHl7aAAAH] 
+5.6.2022, 7:59:10 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: 0TVKL4-1WYzBHl7aAAAH] 
+5.6.2022, 7:59:57 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:00:06 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:00:36 - INFO - Server is running on port: 3030 
+5.6.2022, 8:00:37 - INFO - New connected socket [id: dyW7VX74QZC7nCttAAAB] 
+5.6.2022, 8:00:37 - INFO - New connected socket [id: P58ad1xbOZ0sgloxAAAD] 
+5.6.2022, 8:00:37 - INFO - New connected socket [id: xIuz9JT9CMyioevMAAAF] 
+5.6.2022, 8:00:41 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 8:00:42 - INFO - New connected socket [id: itezTGTUdFx6tKT5AAAH] 
+5.6.2022, 8:00:42 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: itezTGTUdFx6tKT5AAAH] 
+5.6.2022, 8:00:48 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:00:59 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 8:01:00 - INFO - New connected socket [id: l48n20VttuKAiXMFAAAJ] 
+5.6.2022, 8:01:00 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: l48n20VttuKAiXMFAAAJ] 
+5.6.2022, 8:01:06 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:01:10 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 8:01:11 - INFO - New connected socket [id: Gpcy-B-dxxDYDJeNAAAL] 
+5.6.2022, 8:01:11 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:01:11 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: Gpcy-B-dxxDYDJeNAAAL] 
+5.6.2022, 8:05:05 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:05:13 - INFO - Socket is leaving board 6298deb909347e47eb952045 [id: Gpcy-B-dxxDYDJeNAAAL] 
+5.6.2022, 8:05:13 - INFO - Socket is leaving board 629b2ea89d1ac0f26d4106cb [id: Gpcy-B-dxxDYDJeNAAAL] 
+5.6.2022, 8:06:12 - INFO - Server is running on port: 3030 
+5.6.2022, 8:06:12 - INFO - New connected socket [id: KSdlVgw_slXw4cSMAAAB] 
+5.6.2022, 8:06:12 - INFO - New connected socket [id: V_Xnx9iZZQtHUxwfAAAD] 
+5.6.2022, 8:06:13 - INFO - New connected socket [id: GdtfQ-1qYQF3LdssAAAF] 
+5.6.2022, 8:06:19 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 8:06:20 - INFO - Socket is leaving board 6298deb909347e47eb952045 [id: KSdlVgw_slXw4cSMAAAB] 
+5.6.2022, 8:06:29 - INFO - Server is running on port: 3030 
+5.6.2022, 8:06:30 - INFO - New connected socket [id: oAvdbuk4_hQA1bfoAAAB] 
+5.6.2022, 8:06:30 - INFO - New connected socket [id: eyJmablrQzIqj2_4AAAD] 
+5.6.2022, 8:06:31 - INFO - New connected socket [id: bWUO6c9l20jB8RZQAAAF] 
+5.6.2022, 8:06:41 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 8:19:00 - INFO - New boardToUpdate from socket [id: eyJmablrQzIqj2_4AAAD], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 8:25:19 - INFO - New boardToUpdate from socket [id: oAvdbuk4_hQA1bfoAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 8:25:31 - INFO - New boardToUpdate from socket [id: oAvdbuk4_hQA1bfoAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 8:25:46 - INFO - New boardToUpdate from socket [id: oAvdbuk4_hQA1bfoAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 8:25:48 - INFO - New boardToUpdate from socket [id: oAvdbuk4_hQA1bfoAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 8:58:54 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 9:28:15 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 9:28:16 - INFO - New connected socket [id: BZAUUysDaYTXjGYFAAAH] 
+5.6.2022, 9:28:34 - INFO - New connected socket [id: Z5gPCmLpwSJYvBXdAAAJ] 
+5.6.2022, 9:33:42 - INFO - New boardToUpdate from socket [id: Z5gPCmLpwSJYvBXdAAAJ], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 9:38:33 - INFO - Server is running on port: 3030 
+5.6.2022, 9:38:33 - INFO - New connected socket [id: wKTO2wOTHrO1t3HqAAAB] 
+5.6.2022, 9:38:34 - INFO - New connected socket [id: WhCnW5qi6jBJKxFpAAAD] 
+5.6.2022, 9:53:48 - INFO - New boardToUpdate from socket [id: WhCnW5qi6jBJKxFpAAAD], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 9:55:14 - INFO - New boardToUpdate from socket [id: WhCnW5qi6jBJKxFpAAAD], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 10:04:09 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:04:09 - INFO - New connected socket [id: IzB70_KksqFUjB4ZAAAF] 
+5.6.2022, 10:04:10 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: IzB70_KksqFUjB4ZAAAF] 
+5.6.2022, 10:04:18 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:04:19 - INFO - New connected socket [id: bBcaiVxWHu15Do-uAAAH] 
+5.6.2022, 10:04:19 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: bBcaiVxWHu15Do-uAAAH] 
+5.6.2022, 10:04:23 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 10:04:50 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 10:04:54 - INFO - Socket is leaving board 6298deb909347e47eb952045 [id: bBcaiVxWHu15Do-uAAAH] 
+5.6.2022, 10:04:54 - INFO - Socket is leaving board [object Object] [id: bBcaiVxWHu15Do-uAAAH] 
+5.6.2022, 10:12:34 - INFO - Server is running on port: 3030 
+5.6.2022, 10:12:34 - INFO - New connected socket [id: eZpRH_u_V0c5ncxyAAAB] 
+5.6.2022, 10:12:35 - INFO - New connected socket [id: NytgyWredluaCxviAAAD] 
+5.6.2022, 10:12:41 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 10:12:43 - INFO - Socket entered board 629b2ea89d1ac0f26d4106cb [id: eZpRH_u_V0c5ncxyAAAB] 
+5.6.2022, 10:12:43 - INFO - Socket is leaving board 629b2ea89d1ac0f26d4106cb [id: eZpRH_u_V0c5ncxyAAAB] 
+5.6.2022, 10:12:43 - INFO - Socket entered board 6298deb909347e47eb952045 [id: eZpRH_u_V0c5ncxyAAAB] 
+5.6.2022, 10:12:43 - INFO - Socket entered board [object Object] [id: eZpRH_u_V0c5ncxyAAAB] 
+5.6.2022, 10:12:43 - INFO - Socket is leaving board [object Object] [id: eZpRH_u_V0c5ncxyAAAB] 
+5.6.2022, 10:13:19 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:13:19 - INFO - New connected socket [id: xd7-X-C4QMHhX1GZAAAF] 
+5.6.2022, 10:13:20 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: xd7-X-C4QMHhX1GZAAAF] 
+5.6.2022, 10:13:31 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:13:31 - INFO - New connected socket [id: mhHvSAbD5m6bxAGUAAAH] 
+5.6.2022, 10:13:31 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: mhHvSAbD5m6bxAGUAAAH] 
+5.6.2022, 10:13:33 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 10:13:44 - INFO - Server is running on port: 3030 
+5.6.2022, 10:13:44 - INFO - New connected socket [id: 2krZfbxO1fpC3B2JAAAB] 
+5.6.2022, 10:13:45 - INFO - New connected socket [id: 1K2mTTUE7Afz4XiUAAAD] 
+5.6.2022, 10:14:10 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:14:11 - INFO - New connected socket [id: doSpwV5WAPDgSaUIAAAF] 
+5.6.2022, 10:14:12 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: doSpwV5WAPDgSaUIAAAF] 
+5.6.2022, 10:16:54 - INFO - Socket entered board 6298deb909347e47eb952045 [id: 2krZfbxO1fpC3B2JAAAB] 
+5.6.2022, 10:16:55 - INFO - Socket entered board 6298deb909347e47eb952045 [id: doSpwV5WAPDgSaUIAAAF] 
+5.6.2022, 10:17:06 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:17:07 - INFO - New connected socket [id: 2trf-yQD8AAxlBIeAAAH] 
+5.6.2022, 10:17:08 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: 2trf-yQD8AAxlBIeAAAH] 
+5.6.2022, 10:18:33 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:18:36 - INFO - New connected socket [id: FdFA__0Bn7DNTBw0AAAJ] 
+5.6.2022, 10:18:36 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: FdFA__0Bn7DNTBw0AAAJ] 
+5.6.2022, 10:19:47 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:19:48 - INFO - New connected socket [id: c_yAjGsf2Ijsz9GFAAAL] 
+5.6.2022, 10:19:48 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: c_yAjGsf2Ijsz9GFAAAL] 
+5.6.2022, 10:42:29 - INFO - Server is running on port: 3030 
+5.6.2022, 10:42:29 - INFO - New connected socket [id: TePxGLxdND9UrF3RAAAB] 
+5.6.2022, 10:42:29 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: TePxGLxdND9UrF3RAAAB] 
+5.6.2022, 10:42:35 - INFO - New connected socket [id: Hy7w_M9bCJhI4viaAAAD] 
+5.6.2022, 10:42:35 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: Hy7w_M9bCJhI4viaAAAD] 
+5.6.2022, 10:43:03 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:43:13 - INFO - New connected socket [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 10:43:16 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 10:43:39 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 10:43:40 - INFO - New connected socket [id: 5M7x9dWRwNppRCl9AAAH] 
+5.6.2022, 10:43:40 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: 5M7x9dWRwNppRCl9AAAH] 
+5.6.2022, 10:55:32 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:06:28 - INFO - Socket entered board 6298deb909347e47eb952045 [id: 5M7x9dWRwNppRCl9AAAH] 
+5.6.2022, 11:06:29 - INFO - Socket entered board 6298deb909347e47eb952045 [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:15:43 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:15:44 - INFO - Socket is leaving board 6298deb909347e47eb952045 [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:15:44 - INFO - Socket entered board null [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:16:16 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:16:40 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:26:18 - INFO - Socket entered board 6298deb909347e47eb952045 [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:27:51 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:28:02 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:28:17 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:28:29 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:28:30 - INFO - Socket is leaving board 6298deb909347e47eb952045 [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:28:31 - INFO - Socket entered board 629b2ea89d1ac0f26d4106cb [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:28:42 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 11:28:43 - INFO - Socket is leaving board 629b2ea89d1ac0f26d4106cb [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:28:43 - INFO - Socket entered board 6298deb909347e47eb952045 [id: Mr4Cfoc0HuldDaF9AAAF] 
+5.6.2022, 11:53:36 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 12:02:05 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:02:06 - INFO - New connected socket [id: LvBJgZrjYYSDkpvwAAAJ] 
+5.6.2022, 12:02:06 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: LvBJgZrjYYSDkpvwAAAJ] 
+5.6.2022, 12:02:25 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:02:25 - INFO - New connected socket [id: rVfPlhIEn31q8iw4AAAL] 
+5.6.2022, 12:02:26 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: rVfPlhIEn31q8iw4AAAL] 
+5.6.2022, 12:02:29 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 12:02:34 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:02:35 - INFO - New connected socket [id: dV6m0d5caXeDYrQ5AAAN] 
+5.6.2022, 12:03:39 - INFO - Server is running on port: 3030 
+5.6.2022, 12:03:42 - INFO - New connected socket [id: N2iLDK7N9ul9p3VFAAAB] 
+5.6.2022, 12:03:44 - INFO - New connected socket [id: A6g_K9ZcoTlD2uglAAAD] 
+5.6.2022, 12:04:06 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:04:14 - INFO - New connected socket [id: 3RQPIOvN_K-1QpliAAAF] 
+5.6.2022, 12:04:18 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:04:20 - INFO - New connected socket [id: kfRjno8qPRUrUUQlAAAH] 
+5.6.2022, 12:04:20 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: kfRjno8qPRUrUUQlAAAH] 
+5.6.2022, 12:04:26 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 12:04:30 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 12:34:13 - INFO - Socket entered board 6298deb909347e47eb952045 [id: kfRjno8qPRUrUUQlAAAH] 
+5.6.2022, 12:34:17 - INFO - Socket entered board 6298deb909347e47eb952045 [id: 3RQPIOvN_K-1QpliAAAF] 
+5.6.2022, 12:42:08 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:42:12 - INFO - New connected socket [id: IOcI0GkQKVXw4J2tAAAJ] 
+5.6.2022, 12:42:13 - INFO - Socket entered board 6298deb909347e47eb952045 [id: IOcI0GkQKVXw4J2tAAAJ] 
+5.6.2022, 12:44:56 - INFO - Server is running on port: 3030 
+5.6.2022, 12:44:56 - INFO - New connected socket [id: VZ6JeZL8UlKi7gIXAAAB] 
+5.6.2022, 12:44:57 - INFO - New connected socket [id: q6rPX07curi2vp7kAAAD] 
+5.6.2022, 12:45:27 - INFO - Socket entered board 6298deb909347e47eb952045 [id: q6rPX07curi2vp7kAAAD] 
+5.6.2022, 12:45:28 - INFO - Socket entered board 6298deb909347e47eb952045 [id: VZ6JeZL8UlKi7gIXAAAB] 
+5.6.2022, 12:45:39 - INFO - New boardToUpdate from socket [id: VZ6JeZL8UlKi7gIXAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 12:46:15 - INFO - New boardToUpdate from socket [id: VZ6JeZL8UlKi7gIXAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 12:46:15 - INFO - New boardToUpdate from socket [id: VZ6JeZL8UlKi7gIXAAAB], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 12:46:29 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:46:31 - INFO - New connected socket [id: pYt1I2UnmyUOmIuKAAAF] 
+5.6.2022, 12:46:35 - DEBUG - Getting Boards (userId: 6299f629c65d4889b1d1763d)
+5.6.2022, 12:46:36 - INFO - Socket entered board 6298deb909347e47eb952045 [id: pYt1I2UnmyUOmIuKAAAF] 
+5.6.2022, 12:46:52 - INFO - New boardToUpdate from socket [id: pYt1I2UnmyUOmIuKAAAF], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 12:54:14 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:54:16 - INFO - New connected socket [id: nzBHCbVw5iI_8SsoAAAH] 
+5.6.2022, 12:54:17 - INFO - Socket entered board 6298deb909347e47eb952045 [id: nzBHCbVw5iI_8SsoAAAH] 
+5.6.2022, 12:54:20 - INFO - Server is running on port: 3030 
+5.6.2022, 12:54:20 - INFO - New connected socket [id: H7VOD4kdmaWJO9h-AAAC] 
+5.6.2022, 12:54:20 - INFO - New connected socket [id: 4MZSpEZBM5zNbjAFAAAD] 
+5.6.2022, 12:54:23 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:54:24 - INFO - New connected socket [id: dO8hUzzQIzvBoLceAAAF] 
+5.6.2022, 12:54:24 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:54:26 - INFO - New connected socket [id: tMj15Xnvwo10Rf8-AAAH] 
+5.6.2022, 12:54:26 - INFO - Socket entered board 6298deb909347e47eb952045 [id: dO8hUzzQIzvBoLceAAAF] 
+5.6.2022, 12:54:27 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: tMj15Xnvwo10Rf8-AAAH] 
+5.6.2022, 12:54:27 - INFO - Socket entered board 6298deb909347e47eb952045 [id: tMj15Xnvwo10Rf8-AAAH] 
+5.6.2022, 12:54:38 - INFO - New boardToUpdate from socket [id: dO8hUzzQIzvBoLceAAAF], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 12:56:29 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:56:30 - INFO - New connected socket [id: rshRC3qJUuECI_gAAAAJ] 
+5.6.2022, 12:56:31 - INFO - Setting socket.userId = 6299f629c65d4889b1d1763d for socket [id: rshRC3qJUuECI_gAAAAJ] 
+5.6.2022, 12:56:31 - INFO - Socket disconnected [id: undefined] 
+5.6.2022, 12:56:31 - INFO - Socket entered board 6298deb909347e47eb952045 [id: rshRC3qJUuECI_gAAAAJ] 
+5.6.2022, 12:56:33 - INFO - New connected socket [id: px6y6VtxO3Sl3X8aAAAL] 
+5.6.2022, 12:56:34 - INFO - Socket entered board 6298deb909347e47eb952045 [id: px6y6VtxO3Sl3X8aAAAL] 
+5.6.2022, 12:56:46 - INFO - New boardToUpdate from socket [id: px6y6VtxO3Sl3X8aAAAL], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 13:03:41 - INFO - New boardToUpdate from socket [id: px6y6VtxO3Sl3X8aAAAL], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 13:03:43 - INFO - New boardToUpdate from socket [id: px6y6VtxO3Sl3X8aAAAL], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 13:03:48 - INFO - New boardToUpdate from socket [id: px6y6VtxO3Sl3X8aAAAL], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 13:05:05 - INFO - New boardToUpdate from socket [id: rshRC3qJUuECI_gAAAAJ], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 13:05:07 - INFO - New boardToUpdate from socket [id: rshRC3qJUuECI_gAAAAJ], emitting to board 6298deb909347e47eb952045 
+5.6.2022, 13:05:09 - INFO - New boardToUpdate from socket [id: rshRC3qJUuECI_gAAAAJ], emitting to board 6298deb909347e47eb952045 
+>>>>>>> e25b6b41ef262ccbe7778f04799f9228968e6079
+5.6.2022, 13:06:29 - INFO - Server is running on port: 3030 

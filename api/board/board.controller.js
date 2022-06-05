@@ -31,37 +31,37 @@ async function addBoard(req, res) {
     try {
         const board = req.body;
         board.createdAt = Date.now()
-        board.labels = [{
-            id: "l101",
-            title: "Done",
-            color: "#519839"
-        },
-        {
-            id: "l102",
-            title: "Progress",
-            color: "#f2d600"
-        },
-        {
-            id: "l103",
-            title: "Open",
-            color: " #eb5a46"
-        },
-        {
-            id: "l104",
-            title: "Urgent",
-            color: "#ff9f1a"
-        },
-        {
-            id: "l105",
-            title: "Irrelevant",
-            color: "#055a8c"
-        },
-        {
-            id: "l106",
-            title: "Assigned",
-            color: "#c377e0"
-        }
-    ]
+            //     board.labels = [{
+            //         id: "l101",
+            //         title: "Done",
+            //         color: "#519839"
+            //     },
+            //     {
+            //         id: "l102",
+            //         title: "Progress",
+            //         color: "#f2d600"
+            //     },
+            //     {
+            //         id: "l103",
+            //         title: "Open",
+            //         color: " #eb5a46"
+            //     },
+            //     {
+            //         id: "l104",
+            //         title: "Urgent",
+            //         color: "#ff9f1a"
+            //     },
+            //     {
+            //         id: "l105",
+            //         title: "Irrelevant",
+            //         color: "#055a8c"
+            //     },
+            //     {
+            //         id: "l106",
+            //         title: "Assigned",
+            //         color: "#c377e0"
+            //     }
+            // ]
         const addedBoard = await boardService.add(board)
         res.json(addedBoard)
     } catch (err) {
