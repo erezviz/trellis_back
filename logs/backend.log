@@ -1,0 +1,78 @@
+7.6.2022, 14:34:24 - INFO - Server is running on port: 3030 
+7.6.2022, 14:34:30 - INFO - New connected socket [id: W3c8BPGAO-2GOMPPAAAB] 
+7.6.2022, 14:34:31 - INFO - New connected socket [id: vXq_R6CsOSxkhqliAAAD] 
+7.6.2022, 14:35:05 - INFO - New connected socket [id: SbwKb3q3hYeXjjsWAAAF] 
+7.6.2022, 14:35:08 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:10 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:12 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:15 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:17 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:18 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:19 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:19 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:20 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:35:20 - INFO - Socket entered board 6298deb909347e47eb952045 [id: SbwKb3q3hYeXjjsWAAAF] 
+7.6.2022, 14:35:35 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:35:38 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:34 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:35 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:35 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:36 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:37 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:37 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:38 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:38 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:38 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:39 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:39 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:40 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:41 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:41 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:42 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:42 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:43 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:43 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:44 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:45 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:45 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:46 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:47 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:48 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:49 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:50 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:50 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:51 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:51 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:52 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:54 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:55 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:57 - INFO - New boardToUpdate from socket [id: SbwKb3q3hYeXjjsWAAAF], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:41:58 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 14:42:27 - INFO - New connected socket [id: 5E9bR_sFlR373tI3AAAH] 
+7.6.2022, 14:42:29 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:42:30 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:42:31 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:42:31 - DEBUG - Getting Boards (userId: 629d9805455b171f60122b99)
+7.6.2022, 14:42:33 - INFO - Socket entered board 6298deb909347e47eb952045 [id: 5E9bR_sFlR373tI3AAAH] 
+7.6.2022, 14:42:41 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:42:42 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:42:46 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:42:48 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:43:03 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:58:05 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:21 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:36 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:38 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:39 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:40 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:45 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 14:59:48 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:00:17 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:00:43 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:01:12 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:01:21 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:01:29 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:01:42 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:01:48 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:01:59 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:02:12 - INFO - New boardToUpdate from socket [id: 5E9bR_sFlR373tI3AAAH], emitting to board 6298deb909347e47eb952045 
