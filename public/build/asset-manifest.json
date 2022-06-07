@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67490752.css",
+    "main.js": "/static/js/main.e2ecf7fd.js",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/SecularOne-Regular.ttf": "/static/media/SecularOne-Regular.141c1f3e034514617e8b.ttf",
+    "static/media/teaser.svg": "/static/media/teaser.11e5c4277f982422e988ff3128ba5dd4.svg",
+    "static/media/attachment-icon.png": "/static/media/attachment-icon.8c76fd76b7e84e9dc42f.png",
+    "static/media/labels-icon.svg": "/static/media/labels-icon.c0d23a50f8e32d0888921b596ad84c6e.svg",
+    "static/media/cover.svg": "/static/media/cover.b4126be74cbf9df87570.svg",
+    "static/media/task-title-icon.svg": "/static/media/task-title-icon.c7baf254544b6e91b3f11b9d99022def.svg",
+    "index.html": "/index.html",
+    "static/media/member-icon.svg": "/static/media/member-icon.ce441928e08a3714dd11.svg",
+    "static/media/plus-icon.svg": "/static/media/plus-icon.11d4aeb7daea2d0097ff629e801941f3.svg",
+    "static/media/member.svg": "/static/media/member.c243fa2da303209f819811283c758e88.svg",
+    "static/media/description-icon.svg": "/static/media/description-icon.19c87d2ac7179b3c42a012c9561b6844.svg",
+    "static/media/pen.svg": "/static/media/pen.698cf18e6fcfcdf1928bf39ed28fc9d1.svg",
+    "static/media/three-dot-menu.svg": "/static/media/three-dot-menu.c48db06b20c74f796c9de62b61267620.svg",
+    "static/media/close.svg": "/static/media/close.c893b922699d5860fe03c6c38abb637d.svg",
+    "static/media/dates-icon.svg": "/static/media/dates-icon.23c371112d601a05fe26b0d9e75f8c9d.svg",
+    "static/media/star.svg": "/static/media/star.f80692effaf0104bf0a6c006dd064902.svg",
+    "main.67490752.css.map": "/static/css/main.67490752.css.map",
+    "main.e2ecf7fd.js.map": "/static/js/main.e2ecf7fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67490752.css",
+    "static/js/main.e2ecf7fd.js"
+  ]
+}

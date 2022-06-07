@@ -20,7 +20,7 @@
         "nodemon": "1.18.10"
     },
     "scripts": {
-        "start": "set NODE_ENV=development&&nodemon server.js",
+        "start": "node server.js",
         "server:dev": "set NODE_ENV=development&&nodemon server.js",
         "server:prod": "set NODE_ENV=production&&node server.js",
         "build": "react-scripts build"
