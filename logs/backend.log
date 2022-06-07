@@ -52573,3 +52573,18 @@
 7.6.2022, 12:41:10 - INFO - New connected socket [id: TgSiR9b5lu-tn83NAAAB] 
 7.6.2022, 12:41:48 - INFO - Server is running on port: 3030 
 7.6.2022, 12:41:49 - INFO - New connected socket [id: nkvHfgiPHO168drqAAAB] 
+7.6.2022, 12:53:39 - INFO - Server is running on port: 3030 
+7.6.2022, 12:53:40 - INFO - New connected socket [id: sSqHf9LHciYUy8tQAAAB] 
+7.6.2022, 12:53:46 - INFO - Socket disconnected [id: undefined] 
+7.6.2022, 12:53:49 - INFO - New connected socket [id: tnUKxyDuKtW0DjBbAAAD] 
+7.6.2022, 12:53:49 - DEBUG - Getting Boards (userId: 6299c718f22438afe504de77)
+7.6.2022, 12:53:51 - DEBUG - Getting Boards (userId: 6299c718f22438afe504de77)
+7.6.2022, 12:53:59 - DEBUG - Getting Boards (userId: 6299c718f22438afe504de77)
+7.6.2022, 12:53:59 - INFO - Socket entered board 6298deb909347e47eb952045 [id: tnUKxyDuKtW0DjBbAAAD] 
+7.6.2022, 12:54:28 - INFO - New boardToUpdate from socket [id: tnUKxyDuKtW0DjBbAAAD], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 12:55:06 - INFO - New boardToUpdate from socket [id: tnUKxyDuKtW0DjBbAAAD], emitting to board 6298deb909347e47eb952045 
+7.6.2022, 15:05:07 - INFO - Server is running on port: 3030 
+7.6.2022, 15:05:08 - INFO - New connected socket [id: ChBVvKkd3mSsQRmBAAAB] 
+7.6.2022, 15:05:08 - INFO - Socket entered board 6298deb909347e47eb952045 [id: ChBVvKkd3mSsQRmBAAAB] 
+7.6.2022, 15:05:51 - INFO - New connected socket [id: h7RP9dyF1gq50J8QAAAD] 
+7.6.2022, 15:06:00 - INFO - Socket disconnected [id: undefined] 
